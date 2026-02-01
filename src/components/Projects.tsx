@@ -8,7 +8,7 @@ const projects = [
     tech: ["React", "Node.js", "MongoDB", "Socket.io", "TypeScript"],
     image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
     github: "https://github.com/yash113gadia",
-    demo: "#",
+    demo: "https://qlaa.in",
     featured: true,
     color: "emerald"
   },
