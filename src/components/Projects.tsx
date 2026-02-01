@@ -18,7 +18,7 @@ const projects = [
     description: "Enterprise-grade management system with normalized PostgreSQL schema (3NF). Implemented SQL indexing strategies for high-performance queries on attendance logs.",
     tech: ["Java", "PostgreSQL", "JDBC", "Schema Design"],
     image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80",
-    github: "https://github.com/yash113gadia/AttendanceManagementGUI",
+    github: "https://github.com/yash113gadia/AttendanceSystem",
     demo: "#",
     featured: true,
     color: "violet"
@@ -28,7 +28,7 @@ const projects = [
     subtitle: "Educational Platform",
     description: "AI-integrated learning platform with Node.js/TypeScript backend. PostgreSQL with Sequelize ORM for data modeling and migrations.",
     tech: ["Node.js", "TypeScript", "PostgreSQL", "Sequelize"],
-    github: "https://github.com/yash113gadia",
+    github: "https://github.com/yash113gadia/SyllabusAI",
     demo: "#",
     featured: false,
     color: "sky"
@@ -48,7 +48,7 @@ const projects = [
     subtitle: "Agency Dashboard",
     description: "High-performance admin dashboard containerized with Docker for consistent deployments.",
     tech: ["FastAPI", "React", "Docker"],
-    github: "https://github.com/yash113gadia/devage_platform",
+    github: "https://github.com/yash113gadia/devage-platform",
     demo: "#",
     featured: false,
     color: "rose"
@@ -58,7 +58,7 @@ const projects = [
     subtitle: "Clinical Screening Tool",
     description: "Digital diagnostic tool based on DSM-5-TR criteria with interactive data visualization.",
     tech: ["React", "TypeScript", "Recharts"],
-    github: "https://github.com/yash113gadia/ADHD-predictor",
+    github: "https://github.com/yash113gadia/WhatsMyScore",
     demo: "#",
     featured: false,
     color: "emerald"
