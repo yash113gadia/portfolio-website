@@ -29,7 +29,7 @@ const projects = [
     description: "AI-integrated learning platform with Node.js/TypeScript backend. PostgreSQL with Sequelize ORM for data modeling and migrations.",
     tech: ["Node.js", "TypeScript", "PostgreSQL", "Sequelize"],
     github: "https://github.com/yash113gadia/SyllabusAI",
-    demo: "#",
+    demo: "https://client-theta-woad.vercel.app",
     featured: false,
     color: "sky"
   },
@@ -49,7 +49,7 @@ const projects = [
     description: "High-performance admin dashboard containerized with Docker for consistent deployments.",
     tech: ["FastAPI", "React", "Docker"],
     github: "https://github.com/yash113gadia/devage-platform",
-    demo: "#",
+    demo: "https://frontend-puce-ten-d1v383fm36.vercel.app",
     featured: false,
     color: "rose"
   },
@@ -59,7 +59,7 @@ const projects = [
     description: "Digital diagnostic tool based on DSM-5-TR criteria with interactive data visualization.",
     tech: ["React", "TypeScript", "Recharts"],
     github: "https://github.com/yash113gadia/WhatsMyScore",
-    demo: "#",
+    demo: "https://adhd-web-dun.vercel.app",
     featured: false,
     color: "emerald"
   }

@@ -1,5 +1,5 @@
 import { motion, useInView } from 'framer-motion';
-import { Calendar, Briefcase, Trophy, GraduationCap, Rocket } from 'lucide-react';
+import { Calendar, Trophy, GraduationCap, Rocket } from 'lucide-react';
 import { useRef } from 'react';
 
 const experiences = [

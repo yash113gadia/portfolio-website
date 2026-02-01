@@ -1,4 +1,4 @@
-import { useRef, useState, MouseEvent } from "react";
+import { useRef, useState, type MouseEvent } from "react";
 
 interface SpotlightCardProps extends React.HTMLAttributes<HTMLDivElement> {
   children: React.ReactNode;

@@ -1,4 +1,4 @@
-import { useRef, useState, MouseEvent } from "react";
+import { useRef, type MouseEvent } from "react";
 import { motion, useMotionValue, useSpring, useTransform } from "framer-motion";
 
 interface TiltCardProps {
